@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TRnclu3EvpO8cokVKKPsY0SP6Mg5TfI7TYNZdk/IX5MnhHZ2Ups5ju+IqOo4+3Slb6AVGq5CGop/djcqmXx77g==",
+  "success": true,
+  "projectFilePath": "E:\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Валерий\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
